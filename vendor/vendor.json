@@ -2048,6 +2048,12 @@
 			"revisionTime": "2015-10-10T02:14:09Z"
 		},
 		{
+			"checksumSHA1": "Ml6uIqkjZMgighClDaIT42s/STQ=",
+			"path": "github.com/mailgun/mailgun-go",
+			"revision": "1dbc18b05c395261d22b3a98eddfeae839a8abed",
+			"revisionTime": "2017-01-25T22:45:18Z"
+		},
+		{
 			"checksumSHA1": "yg57Q4J8Ob0LoYvqDxsWZ6AHffE=",
 			"path": "github.com/masterzen/simplexml/dom",
 			"revision": "4572e39b1ab9fe03ee513ce6fc7e289e98482190",
